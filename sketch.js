@@ -2,7 +2,7 @@ var dog,happyDog,database,foodS,foodStock;
 var state=0;
 function preload(){
   dogIMG=loadImage("Dog.png");
-  happyDogIMG=loadImage("happyDog.png");
+  happyDogIMG=loadImage("happydog.png");
 }
 function setup() {
   createCanvas(1800,800);
